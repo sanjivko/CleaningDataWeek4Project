@@ -2,7 +2,7 @@
 library(stringi)
 library(tidyverse)
 #setwd 
-setwd("C:/Users/ojhas/Documents/DataScTools/R/Week4Assignment/UCI HAR Dataset")
+#setwd("C:/Users/ojhas/Documents/DataScTools/R/Week4Assignment/UCI HAR Dataset")
 
 activity_label = as_tibble(readLines("activity_labels.txt"))
 al = vector(mode="character")
