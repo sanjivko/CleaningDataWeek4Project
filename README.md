@@ -1,7 +1,7 @@
 # CleaningDataWeek4Project
 
 How it works
-1. The script must be placeed inside the directory created after extracting the https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip file.
+1. The script must be placed inside the directory created after extracting the https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip file.
 
 After extracting the above following directory is created. 
 "UCI HAR Dataset"
